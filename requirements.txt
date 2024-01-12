@@ -1,0 +1,7 @@
+fastapi==0.109.0
+Flask==2.2.2
+Flask_API==3.1
+pydantic_core==2.15.0
+pymongo==4.2.0
+python-dotenv==1.0.0
+python_bcrypt==0.3.2

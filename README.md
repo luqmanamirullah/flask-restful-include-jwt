@@ -58,7 +58,7 @@ Welcome to the Flask-Restful-Include-JWT repository! This project serves as a co
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/flask-restful-include-jwt.git
+git clone https://github.com/luqmanamirullah/flask-restful-include-jwt.git
 ```
 
 Install dependencies:
